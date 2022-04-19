@@ -1,0 +1,15 @@
+﻿hari;cuaca;suhu;tingkat_malas;bangun_siang;kuliah
+0;Hujan;Panas;Tinggi;Tidak;Bolos
+1;Hujan;Panas;Tinggi;Ya;Bolos
+2;Mendung;Panas;Tinggi;Tidak;Masuk
+3;Cerah;Sejuk;Tinggi;Tidak;Masuk
+4;Cerah;Dingin;Normal;Tidak;Masuk
+5;Cerah;Dingin;Normal;Ya;Bolos
+6;Mendung;Dingin;Normal;Ya;Masuk
+7;Hujan;Sejuk;Tinggi;Tidak;Bolos
+8;Hujan;Dingin;Normal;Tidak;Masuk
+9;Cerah;Sejuk;Normal;Tidak;Masuk
+10;Hujan;Sejuk;Normal;Ya;Masuk
+11;Mendung;Sejuk;Tinggi;Ya;Masuk
+12;Mendung;Panas;Normal;Tidak;Masuk
+13;Cerah;Sejuk;Tinggi;Ya;Bolos
